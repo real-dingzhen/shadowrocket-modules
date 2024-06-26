@@ -1,9 +1,10 @@
 #!name=Pillow
 #!desc=Pillow Premium
+#!UpdateTime=2024-06-26
 #!url=https://raw.githubusercontent.com/real-dingzhen/shadowrocket-modules/main/modules/pillow.module
 
 [MITM]
-hostname = api.revenuecat.com
+hostname = %APPEND% api.revenuecat.com
 
 [Script]
 Pillow=type=http-response,pattern=https:\/\/api\.revenuecat\.com\/v1\/(subscribers\/identify|receipts|subscribers\/\$PLAnonymousID%3A[0-9A-Z-]+),requires-body=1 ,script-path=https://raw.githubusercontent.com/real-dingzhen/shadowrocket-modules/main/js/pillow.js
