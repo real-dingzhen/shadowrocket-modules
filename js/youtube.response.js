@@ -2864,7 +2864,7 @@
                 },
                 n = {
                     lyricLang: "en",
-                    captionLang: "en",
+                    captionLang: "fr",
                     blockUpload: !0,
                     blockImmersive: !0,
                     debug: !1
