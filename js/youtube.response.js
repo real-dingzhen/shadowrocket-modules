@@ -2863,8 +2863,8 @@
                     debug: "\u542F\u52A8\u8C03\u8BD5\u6A21\u5F0F"
                 },
                 n = {
-                    lyricLang: "zh-Hans",
-                    captionLang: "fr",
+                    lyricLang: "off",
+                    captionLang: "off",
                     blockUpload: !0,
                     blockImmersive: !0,
                     debug: !1
