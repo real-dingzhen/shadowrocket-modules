@@ -1,7 +1,7 @@
 #!name = YouTube去广告
 #!desc =支持pip，后台播放, youtube and youtube music
 #!author = Maasea 
-#!homepage=https://whatshub.top
+#!url=https://raw.githubusercontent.com/real-dingzhen/shadowrocket-modules/main/modules/youtube.module
 #!icon = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
 
 [Rule]
